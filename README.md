@@ -8,7 +8,7 @@
 
 ---------
 
-![Python](python.PNG)
+![Machine_Learning_image](python.PNG)
 
 I have been tasked with creating a project as apart of my assessment for this module. <br>
 The project involves applying Machine Learning to the creation of a web service to make predictions on the provided dataset. <br>
