@@ -18,12 +18,14 @@
 I have been tasked with creating a project as apart of my assessment for this module. <br>
 The project involves applying Machine Learning to the creation of a web service to make predictions on the dataset provided by the lecturer. <br>
 
-This repository contains:
+This repository contains at a minimum:
 
 <ol>
   <li>Jupyter Notebook</li>
+  <li>Python Script</li>
   <li>Dataset File</li>
   <li>Assessment requirements: PDF document</li>
+  <li>Dockerfile</li>
   <li>README file</li>
 </ol>
 
